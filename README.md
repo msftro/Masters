@@ -6,7 +6,13 @@
 
 Conceitos básicos sobre aprendizado de máquina. Aprendizado supervisionado: regressão e classificação; regressão linear; regressão logística; máquinas de vetores de suporte; redes neurais; redes profundas; redes convolucionais e redes recursivas. Aprendizado não supervisionado: clustering; redução de dimensionalidade; detecção de anomalias. Aplicações em processamento de sinais.
 
-# Aula 1 - Introdução / Python
+## Referências Bibliográficas
+
+* Deep Learning with Python (Chollet, 2018)
+* Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow - concepts, tools, and techniques to build intelligent systems (Géron, 2019)
+* Machine learning refined - foundations, algorithms, and applications (Watt et al, 2016)
+
+## Aula 1 - Introdução / Python
 **Referências:**
 - Watt cap. 1
 - Géron cap. 1
@@ -14,7 +20,7 @@ Conceitos básicos sobre aprendizado de máquina. Aprendizado supervisionado: re
 - Bishop 1-1.1
 - James caps. 1 e 2
 
-# Aula 2 - Regressão Linear / Regularização
+## Aula 2 - Regressão Linear / Regularização
 **Referências:**
 - Watt 3-3.2, 5-5.3 (exceto redes neurais)
 - Bishop 1.1, 1.3, 3-3.1.2, 3.1.4
@@ -22,13 +28,13 @@ Conceitos básicos sobre aprendizado de máquina. Aprendizado supervisionado: re
 - Géron p. 111-117, 128-140
 - Murphy 11-11.3
 
-# Aula 3 - Regressão Linear / Otimização
+## Aula 3 - Regressão Linear / Otimização
 **Referências:**
 - Watt cap. 2
 - Bishop 3.1.3
 - Géron p. 118-124, cap. 2
 
-# Aula 4 - Classificação / Regressão Logística / SVM
+## Aula 4 - Classificação / Regressão Logística / SVM
 **Referências:**
 - Watt 4-4.2, 4.4-4.5
 - Géron cap. 3, p. 142-151
@@ -36,7 +42,7 @@ Conceitos básicos sobre aprendizado de máquina. Aprendizado supervisionado: re
 - Bishop 4-4.3
 - Murphy 10-10.3
 
-# Aula 5 - Árvores de Decisão e Métodos de Ensemble
+## Aula 5 - Árvores de Decisão e Métodos de Ensemble
 **Referências:**
 - Géron caps. 7, 8
 - James cap. 8
@@ -44,7 +50,7 @@ Conceitos básicos sobre aprendizado de máquina. Aprendizado supervisionado: re
 - Murphy cap. 18
 - Bishop 14-14.4
 
-# Aula 6 - Redes Neurais
+## Aula 6 - Redes Neurais
 **Referências:**
 - Watt 5, 6, 7.2
 - CS229 Lecture Notes
@@ -52,37 +58,30 @@ Conceitos básicos sobre aprendizado de máquina. Aprendizado supervisionado: re
 - Nielsen caps. 1, 2 e 3
 - Géron p. 279-295
 
-# Aula 7 - Redes Profundas
+## Aula 7 - Redes Profundas
 **Referências:**
 - Géron p. 295-308, 314-327, 331-345, 351-368
 - Goodfellow caps. 6, 7, 8
 - Nielsen caps. 3 e 5
 
-# Aula 8 - Redes Convolucionais / Redes Recorrentes
+## Aula 8 - Redes Convolucionais / Redes Recorrentes
 **Referências:**
 - Géron p. 345-349, 445-483
 - Chollet cap. 5
 - Goodfellow cap. 9
 - Nielsen cap. 6
 
-# Aula 9 - Clustering / Redução de Dimensionalidade
+## Aula 9 - Clustering / Redução de Dimensionalidade
 **Referências:**
 - Watt 9.1.2
 - Géron p. 236-260
 - Bishop 9-9.1
 
-# Aula 10 - Detecção de Anomalias / Sistemas de Recomendação
+## Aula 10 - Detecção de Anomalias / Sistemas de Recomendação
 **Referências:**
 - Géron p. 260-275
 - Bishop 2.3-2.3.4
 - Survey sobre detecção de anomalias
-
-
-## Referências Bibliográficas
-
-* Deep Learning with Python (Chollet, 2018)
-* Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow - concepts, tools, and techniques to build intelligent systems (Géron, 2019)
-* Machine learning refined - foundations, algorithms, and applications (Watt et al, 2016)
 
 
 ## Bibliotecas Requeridas
